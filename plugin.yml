@@ -1,0 +1,6 @@
+name: Shop
+main: Main
+version: 1
+author: HaRo0
+commands:
+    shopgui:
